@@ -16,5 +16,5 @@ This dataset contains:
 - `Жаксы_Final.csv` — climate data for Zhaksı district  
 - `Коргалжын_Final.csv` — climate data for Korgalzhyn district  
 - `Урожайность.csv` — grain and wheat yield
-- 'HMM_calc.ipynb' file evaluates yield risk regimes from climate data using Hidden Markov Models
-- 'regression calculator.ipynb' - crop yield forecast based on climate data and regression models
+- `HMM_calc.ipynb` file evaluates yield risk regimes from climate data using Hidden Markov Models
+- `regression calculator.ipynb` - crop yield forecast based on climate data and regression models
