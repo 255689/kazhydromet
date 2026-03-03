@@ -11,8 +11,8 @@ This dataset contains:
 - Official data from the **Bureau of National Statistics of the Agency for Strategic Planning and Reforms of the Republic of Kazakhstan** on grain and wheat yields, expressed in **tons per hectare (с/ha)**.
 
 ## File Structure
-- `Arshaly_Final.csv` — climate data for Arshaly district  
-- `Yereymentau_Final.csv` — climate data for Yereymentau district  
-- `Zhaksı_Final.csv` — climate data for Zhaksı district  
-- `Korgalzhyn_Final.csv` — climate data for Korgalzhyn district  
+- `Аршалы_Final.csv` — climate data for Arshaly district  
+- `Ерейментау_Final.csv` — climate data for Yereymentau district  
+- `Жаксы_Final.csv` — climate data for Zhaksı district  
+- `Коргалжын_Final.csv` — climate data for Korgalzhyn district  
 - `Урожайность.csv` — grain and wheat yield
