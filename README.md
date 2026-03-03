@@ -8,7 +8,7 @@ This dataset contains:
   - Zhaksı
   - Korgalzhyn
 - Time period: **2004–2024**
-- Official data from the **Bureau of National Statistics of the Agency for Strategic Planning and Reforms of the Republic of Kazakhstan** on grain and wheat yields, expressed in **tons per hectare (с/ha)**.
+- Official data from the **Bureau of National Statistics of the Agency for Strategic Planning and Reforms of the Republic of Kazakhstan** on grain and wheat yields, expressed in **centners per hectare (с/ha)**.
 
 ## File Structure
 - `Аршалы_Final.csv` — climate data for Arshaly district  
