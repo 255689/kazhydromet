@@ -11,10 +11,10 @@ This dataset contains:
 - Official data from the **Bureau of National Statistics of the Agency for Strategic Planning and Reforms of the Republic of Kazakhstan** on grain and wheat yields, expressed in **centners per hectare (с/ha)**.
 
 ## File Structure
-- `Аршалы_Final.csv` — climate data for Arshaly district  
-- `Ерейментау_Final.csv` — climate data for Yereymentau district  
-- `Жаксы_Final.csv` — climate data for Zhaksı district  
-- `Коргалжын_Final.csv` — climate data for Korgalzhyn district  
-- `Урожайность.csv` — grain and wheat yield
-- `HMM_calc.ipynb` file evaluates yield risk regimes from climate data using Hidden Markov Models
+- `Аршалы_Final.csv` - climate data for Arshaly district  
+- `Ерейментау_Final.csv` - climate data for Yereymentau district  
+- `Жаксы_Final.csv` - climate data for Zhaksı district  
+- `Коргалжын_Final.csv` - climate data for Korgalzhyn district  
+- `Урожайность.csv` - grain and wheat yield
+- `HMM_calc.ipynb` - file evaluates yield risk regimes from climate data using Hidden Markov Models
 - `regression calculator.ipynb` - crop yield forecast based on climate data and regression models
