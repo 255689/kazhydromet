@@ -18,4 +18,4 @@ This dataset contains:
 - `Урожайность.csv` - grain and wheat yield
 - `HMM_calc.ipynb` - file evaluates yield risk regimes from climate data using Hidden Markov Models
 - `regression calculator.ipynb` - crop yield forecast based on climate data and regression models
-- `figure.zip` - figures generated from the model calculations
+- `Figures.zip` - figures generated from the model calculations
